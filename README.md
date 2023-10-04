@@ -63,7 +63,7 @@ To run the Discord Token Generator, you will need the following:
    
 3. Run the script:
    ```bash
-   python main.py
+   python generate.py
    ```
 
 
