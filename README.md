@@ -98,5 +98,5 @@ If you have any questions, issues, or suggestions, feel free to open an [issue](
   <img src="https://img.shields.io/github/license/Devuxious/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
   <img src="https://img.shields.io/github/stars/Devuxious/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
   <img src="https://img.shields.io/github/languages/top/Devuxious/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=python"/>
-  <img height="25" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevuxious%2FDiscord-Token-Generator&countColor=%23FF7F7F&labelColor=black" alt="Views"/>
+  <img height="25" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevuxious%2FDiscord-Token-Generator&countColor=%23FF7F7F&labelColor=black&logo=python" alt="Views"/>
 </p>
